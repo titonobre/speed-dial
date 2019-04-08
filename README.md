@@ -1,1 +1,1 @@
-# go.tito.dev
+# speed-dial
