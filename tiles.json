@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Twitter",
+    "href": "https://twitter.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--twitter.svg",
+    "title": "Twitter",
+    "background": "#1da1f2",
+    "invert": true
+  },
+  {
+    "id": "YouTube",
+    "href": "https://youtube.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--youtube.svg",
+    "title": "YouTube",
+    "background": "#fd0016",
+    "invert": true,
+    "width": "65px"
+  },
+  {
+    "id": "CodePen",
+    "href": "https://codepen.io",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--codepen-white.svg",
+    "title": "CodePen",
+    "background": "#000000"
+  },
+  {
+    "id": "GitHub",
+    "href": "https://github.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--github.svg",
+    "title": "GitHub",
+    "background": "#25292e",
+    "invert": true
+  },
+  {
+    "id": "Reddit",
+    "href": "https://reddit.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--reddit.svg",
+    "title": "Reddit",
+    "background": "#ff4500",
+    "invert": true
+  },
+  {
+    "id": "Keep",
+    "href": "https://keep.google.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--keep.svg",
+    "title": "Keep",
+    "background": "#ffbb00",
+    "invert": false
+  },
+  {
+    "id": "Netflix",
+    "href": "https://netflix.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--netflix.svg",
+    "title": "Netflix",
+    "background": "#e50914",
+    "invert": true
+  },
+  {
+    "id": "Hangouts",
+    "href": "https://hangouts.google.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--hangouts.svg",
+    "title": "Hangouts",
+    "background": "#0c9d58",
+    "invert": true
+  },
+  {
+    "id": "Spotify",
+    "href": "https://open.spotify.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--spotify.svg",
+    "title": "Spotify",
+    "background": "#2ebd59",
+    "invert": true
+  },
+  {
+    "id": "Pocket",
+    "href": "https://getpocket.com",
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--pocket.svg",
+    "title": "Pocket",
+    "background": "#ef3f56",
+    "invert": true
+  }
+]
