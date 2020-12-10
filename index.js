@@ -14,10 +14,8 @@ function createTiles() {
     const img = document.createElement("img");
     img.classList.add("icon");
     img.setAttribute("src", tile.img);
-
-    if (tile.invert) img.classList.add("invert");
-
-    if (tile.width) img.style.width = tile.width;
+    img.setAttribute("width", "55");
+    img.setAttribute("height", "55");
 
     // title
     const title = document.createElement("span");

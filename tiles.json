@@ -1,82 +1,62 @@
 [
   {
-    "id": "Twitter",
     "href": "https://twitter.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--twitter.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/twitter.svg",
     "title": "Twitter",
-    "background": "#1da1f2",
-    "invert": true
+    "background": "#1DA1F2"
   },
   {
-    "id": "YouTube",
     "href": "https://youtube.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--youtube.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/youtube.svg",
     "title": "YouTube",
-    "background": "#fd0016",
-    "invert": true,
-    "width": "65px"
+    "background": "#FF0000"
   },
   {
-    "id": "CodePen",
     "href": "https://codepen.io",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--codepen-white.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/codepen.svg",
     "title": "CodePen",
     "background": "#000000"
   },
   {
-    "id": "GitHub",
     "href": "https://github.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--github.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/github.svg",
     "title": "GitHub",
-    "background": "#25292e",
-    "invert": true
+    "background": "#25292E"
   },
   {
-    "id": "Reddit",
     "href": "https://reddit.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--reddit.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/reddit.svg",
     "title": "Reddit",
-    "background": "#ff4500",
-    "invert": true
+    "background": "#FF4500"
   },
   {
-    "id": "Keep",
     "href": "https://keep.google.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--keep.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/googlekeep.svg",
     "title": "Keep",
-    "background": "#ffbb00",
-    "invert": false
+    "background": "#FFBB00"
   },
   {
-    "id": "Netflix",
     "href": "https://netflix.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--netflix.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/netflix.svg",
     "title": "Netflix",
-    "background": "#e50914",
-    "invert": true
+    "background": "#E50914"
   },
   {
-    "id": "Hangouts",
     "href": "https://hangouts.google.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--hangouts.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/googlehangouts.svg",
     "title": "Hangouts",
-    "background": "#0c9d58",
-    "invert": true
+    "background": "#0C9D58"
   },
   {
-    "id": "Spotify",
     "href": "https://open.spotify.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--spotify.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/spotify.svg",
     "title": "Spotify",
-    "background": "#2ebd59",
-    "invert": true
+    "background": "#1ED760"
   },
   {
-    "id": "Pocket",
     "href": "https://getpocket.com",
-    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/59615/logo--pocket.svg",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/pocket.svg",
     "title": "Pocket",
-    "background": "#ef3f56",
-    "invert": true
+    "background": "#EF3F56"
   }
 ]

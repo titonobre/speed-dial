@@ -71,7 +71,6 @@ a:active {
 }
 .tile .icon {
   width: 55px;
-}
-.tile .icon.invert {
+  height: 55px;
   filter: invert(1);
 }
