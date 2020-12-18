@@ -26,6 +26,12 @@ a:active {
   justify-content: center;
 }
 
+@media screen and (min-width: 1100px) {
+  .tiles {
+    max-width: 1100px;
+  }
+}
+
 .tile {
   display: flex;
   flex-direction: column;
@@ -70,7 +76,7 @@ a:active {
   /* transform: translateY(3px); */
 }
 .tile .icon {
-  width: 55px;
-  height: 55px;
+  width: 80px;
+  height: 80px;
   filter: invert(1);
 }
