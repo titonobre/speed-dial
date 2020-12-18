@@ -1,5 +1,17 @@
 [
   {
+    "href": "https://comunidade0937.com",
+    "img": "images/comunidade-0937.svg",
+    "title": "Comunidade 0937",
+    "background": "#464646"
+  },
+  {
+    "href": "https://episodecalendar.com/",
+    "img": "images/episode-calendar.svg",
+    "title": "Episode Calendar",
+    "background": "#DA0C87"
+  },
+  {
     "href": "https://twitter.com",
     "img": "https://unpkg.com/simple-icons@4.1.0/icons/twitter.svg",
     "title": "Twitter",
