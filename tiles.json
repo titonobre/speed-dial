@@ -12,6 +12,12 @@
     "background": "#DA0C87"
   },
   {
+    "href": "https://www.rssheap.com/",
+    "img": "images/rssheap.svg",
+    "title": "RSS Heap",
+    "background": "#00A0C6"
+  },
+  {
     "href": "https://twitter.com",
     "img": "https://unpkg.com/simple-icons@4.1.0/icons/twitter.svg",
     "title": "Twitter",
@@ -58,6 +64,12 @@
     "img": "https://unpkg.com/simple-icons@4.1.0/icons/googlehangouts.svg",
     "title": "Hangouts",
     "background": "#0C9D58"
+  },
+  {
+    "href": "https://web.whatsapp.com/",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/whatsapp.svg",
+    "title": "WhatsApp",
+    "background": "#25D366"
   },
   {
     "href": "https://open.spotify.com",
