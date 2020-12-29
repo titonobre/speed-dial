@@ -6,6 +6,12 @@
     "background": "#464646"
   },
   {
+    "href": "https://google.com/",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/google.svg",
+    "title": "Google",
+    "background": "#4285F4"
+  },
+  {
     "href": "https://episodecalendar.com/",
     "img": "images/episode-calendar.svg",
     "title": "Episode Calendar",
@@ -16,6 +22,12 @@
     "img": "images/rssheap.svg",
     "title": "RSS Heap",
     "background": "#00A0C6"
+  },
+  {
+    "href": "https://facebook.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/facebook.svg",
+    "title": "Facebook",
+    "background": "#1877F2"
   },
   {
     "href": "https://twitter.com",
@@ -60,6 +72,24 @@
     "background": "#E50914"
   },
   {
+    "href": "https://imdb.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/imdb.svg",
+    "title": "IMDb",
+    "background": "#E6B91E"
+  },
+  {
+    "href": "https://mail.google.com/",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/gmail.svg",
+    "title": "Gmail",
+    "background": "#D14836"
+  },
+  {
+    "href": "https://outlook.com/",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/microsoftoutlook.svg",
+    "title": "Gmail",
+    "background": "#0078D4"
+  },
+  {
     "href": "https://hangouts.google.com",
     "img": "https://unpkg.com/simple-icons@4.1.0/icons/googlehangouts.svg",
     "title": "Hangouts",
@@ -82,5 +112,11 @@
     "img": "https://unpkg.com/simple-icons@4.1.0/icons/pocket.svg",
     "title": "Pocket",
     "background": "#EF3F56"
+  },
+  {
+    "href": "https://amazon.es",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/amazon.svg",
+    "title": "Amazon",
+    "background": "#FF9900"
   }
 ]
