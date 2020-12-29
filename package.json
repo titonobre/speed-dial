@@ -4,6 +4,6 @@
     "build": "snowpack build"
   },
   "devDependencies": {
-    "snowpack": "^2.17"
+    "snowpack": "^2.18"
   }
 }
