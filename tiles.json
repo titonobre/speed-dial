@@ -12,34 +12,22 @@
     "background": "#4285F4"
   },
   {
+    "href": "https://keep.google.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/googlekeep.svg",
+    "title": "Keep",
+    "background": "#FFBB00"
+  },
+  {
+    "href": "https://netflix.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/netflix.svg",
+    "title": "Netflix",
+    "background": "#E50914"
+  },
+  {
     "href": "https://episodecalendar.com/",
     "img": "images/episode-calendar.svg",
     "title": "Episode Calendar",
     "background": "#DA0C87"
-  },
-  {
-    "href": "https://www.rssheap.com/",
-    "img": "images/rssheap.svg",
-    "title": "RSS Heap",
-    "background": "#00A0C6"
-  },
-  {
-    "href": "https://facebook.com",
-    "img": "https://unpkg.com/simple-icons@4.1.0/icons/facebook.svg",
-    "title": "Facebook",
-    "background": "#1877F2"
-  },
-  {
-    "href": "https://twitter.com",
-    "img": "https://unpkg.com/simple-icons@4.1.0/icons/twitter.svg",
-    "title": "Twitter",
-    "background": "#1DA1F2"
-  },
-  {
-    "href": "https://youtube.com",
-    "img": "https://unpkg.com/simple-icons@4.1.0/icons/youtube.svg",
-    "title": "YouTube",
-    "background": "#FF0000"
   },
   {
     "href": "https://codepen.io",
@@ -54,28 +42,34 @@
     "background": "#25292E"
   },
   {
+    "href": "https://getpocket.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/pocket.svg",
+    "title": "Pocket",
+    "background": "#EF3F56"
+  },
+  {
+    "href": "https://youtube.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/youtube.svg",
+    "title": "YouTube",
+    "background": "#FF0000"
+  },
+  {
     "href": "https://reddit.com",
     "img": "https://unpkg.com/simple-icons@4.1.0/icons/reddit.svg",
     "title": "Reddit",
     "background": "#FF4500"
   },
   {
-    "href": "https://keep.google.com",
-    "img": "https://unpkg.com/simple-icons@4.1.0/icons/googlekeep.svg",
-    "title": "Keep",
-    "background": "#FFBB00"
+    "href": "https://dev.to/",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/dev-dot-to.svg",
+    "title": "Dev.to",
+    "background": "#0A0A0A"
   },
   {
-    "href": "https://netflix.com",
-    "img": "https://unpkg.com/simple-icons@4.1.0/icons/netflix.svg",
-    "title": "Netflix",
-    "background": "#E50914"
-  },
-  {
-    "href": "https://imdb.com",
-    "img": "https://unpkg.com/simple-icons@4.1.0/icons/imdb.svg",
-    "title": "IMDb",
-    "background": "#E6B91E"
+    "href": "https://www.rssheap.com/",
+    "img": "images/rssheap.svg",
+    "title": "RSS Heap",
+    "background": "#00A0C6"
   },
   {
     "href": "https://mail.google.com/",
@@ -90,6 +84,24 @@
     "background": "#0078D4"
   },
   {
+    "href": "https://imdb.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/imdb.svg",
+    "title": "IMDb",
+    "background": "#E6B91E"
+  },
+  {
+    "href": "https://twitter.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/twitter.svg",
+    "title": "Twitter",
+    "background": "#1DA1F2"
+  },
+  {
+    "href": "https://facebook.com",
+    "img": "https://unpkg.com/simple-icons@4.1.0/icons/facebook.svg",
+    "title": "Facebook",
+    "background": "#1877F2"
+  },
+  {
     "href": "https://hangouts.google.com",
     "img": "https://unpkg.com/simple-icons@4.1.0/icons/googlehangouts.svg",
     "title": "Hangouts",
@@ -102,19 +114,7 @@
     "background": "#25D366"
   },
   {
-    "href": "https://open.spotify.com",
-    "img": "https://unpkg.com/simple-icons@4.1.0/icons/spotify.svg",
-    "title": "Spotify",
-    "background": "#1ED760"
-  },
-  {
-    "href": "https://getpocket.com",
-    "img": "https://unpkg.com/simple-icons@4.1.0/icons/pocket.svg",
-    "title": "Pocket",
-    "background": "#EF3F56"
-  },
-  {
-    "href": "https://amazon.es",
+    "href": "https://amazon.es/",
     "img": "https://unpkg.com/simple-icons@4.1.0/icons/amazon.svg",
     "title": "Amazon",
     "background": "#FF9900"
