@@ -1,14 +1,12 @@
-import tiles from "./tiles.json";
+import tilesData from "./tiles.json";
 
-function createTiles() {
-  const tilesContainer = document.querySelector(".tiles");
-
-  const anchors = tiles.map((tile) => {
-    // anchor
-    const anchor = document.createElement("a");
-    anchor.classList.add("tile");
-    anchor.setAttribute("href", tile.href);
-    anchor.style.background = tile.background;
+function createTiles(container, tiles) {
+  const links = tiles.map((tile) => {
+    // link
+    const link = document.createElement("a");
+    link.classList.add("tile");
+    link.setAttribute("href", tile.href);
+    link.style.background = tile.background;
 
     // image
     const img = document.createElement("img");
@@ -22,12 +20,17 @@ function createTiles() {
     title.classList.add("title");
     title.innerText = tile.title;
 
-    anchor.append(img, title);
+    link.append(img, title);
 
-    return anchor;
+    return link;
   });
 
-  tilesContainer.append(...anchors);
+  container.append(...links);
 }
 
-document.addEventListener("DOMContentLoaded", () => createTiles());
+
+document.addEventListener("DOMContentLoaded", () => {
+  const tilesContainer = document.querySelector(".tiles");
+
+  createTiles(tilesContainer, tilesData);
+});
