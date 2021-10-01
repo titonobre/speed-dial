@@ -7,19 +7,19 @@
   },
   {
     "href": "https://google.com/",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/google.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/google.svg",
     "title": "Google",
     "background": "#4285F4"
   },
   {
     "href": "https://keep.google.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/googlekeep.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/googlekeep.svg",
     "title": "Keep",
     "background": "#FFBB00"
   },
   {
     "href": "https://netflix.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/netflix.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/netflix.svg",
     "title": "Netflix",
     "background": "#E50914"
   },
@@ -31,37 +31,37 @@
   },
   {
     "href": "https://codepen.io",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/codepen.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/codepen.svg",
     "title": "CodePen",
     "background": "#000000"
   },
   {
     "href": "https://github.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/github.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/github.svg",
     "title": "GitHub",
     "background": "#25292E"
   },
   {
     "href": "https://www.notion.so/",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/notion.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/notion.svg",
     "title": "Notion",
     "background": "#000000"
   },
   {
     "href": "https://youtube.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/youtube.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/youtube.svg",
     "title": "YouTube",
     "background": "#FF0000"
   },
   {
     "href": "https://reddit.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/reddit.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/reddit.svg",
     "title": "Reddit",
     "background": "#FF4500"
   },
   {
     "href": "https://dev.to/",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/devdotto.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/devdotto.svg",
     "title": "Dev.to",
     "background": "#0A0A0A"
   },
@@ -73,49 +73,49 @@
   },
   {
     "href": "https://mail.google.com/",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/gmail.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/gmail.svg",
     "title": "Gmail",
     "background": "#D14836"
   },
   {
     "href": "https://outlook.com/",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/microsoftoutlook.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/microsoftoutlook.svg",
     "title": "Outlook",
     "background": "#0078D4"
   },
   {
     "href": "https://imdb.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/imdb.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/imdb.svg",
     "title": "IMDb",
     "background": "#E6B91E"
   },
   {
     "href": "https://twitter.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/twitter.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/twitter.svg",
     "title": "Twitter",
     "background": "#1DA1F2"
   },
   {
     "href": "https://facebook.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/facebook.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/facebook.svg",
     "title": "Facebook",
     "background": "#1877F2"
   },
   {
     "href": "https://chat.google.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/googlechat.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/googlechat.svg",
     "title": "Google Chat",
     "background": "#00AC47"
   },
   {
     "href": "https://web.whatsapp.com/",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/whatsapp.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/whatsapp.svg",
     "title": "WhatsApp",
     "background": "#25D366"
   },
   {
     "href": "https://amazon.es/",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/amazon.svg",
+    "img": "https://unpkg.com/simple-icons@5.16.0/icons/amazon.svg",
     "title": "Amazon",
     "background": "#FF9900"
   }
