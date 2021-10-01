@@ -42,10 +42,10 @@
     "background": "#25292E"
   },
   {
-    "href": "https://getpocket.com",
-    "img": "https://unpkg.com/simple-icons@5.6.0/icons/pocket.svg",
-    "title": "Pocket",
-    "background": "#EF3F56"
+    "href": "https://www.notion.so/",
+    "img": "https://unpkg.com/simple-icons@5.6.0/icons/notion.svg",
+    "title": "Notion",
+    "background": "#000000"
   },
   {
     "href": "https://youtube.com",
