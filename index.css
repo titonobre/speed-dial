@@ -15,7 +15,7 @@ body {
 @media (prefers-color-scheme: dark) {
   body {
     background: rgb(44 44 44);
-    background: linear-gradient(0deg, rgb(44 44 44) 0%, rgb(29 29 29) 50%)
+    background: linear-gradient(0deg, rgb(44 44 44) 0%, rgb(29 29 29) 50%);
     color: #fff;
   }
 }
