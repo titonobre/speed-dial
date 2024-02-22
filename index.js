@@ -1,4 +1,4 @@
-import tilesData from "./tiles.json";
+import tilesData from "./tiles.json" assert { type: "json" };
 
 function createTiles(container, tiles) {
   const links = tiles.map((tile) => {
@@ -27,7 +27,6 @@ function createTiles(container, tiles) {
 
   container.append(...links);
 }
-
 
 document.addEventListener("DOMContentLoaded", () => {
   const tilesContainer = document.querySelector(".tiles");

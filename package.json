@@ -1,9 +1,5 @@
 {
   "scripts": {
-    "start": "snowpack dev",
-    "build": "snowpack build"
-  },
-  "devDependencies": {
-    "snowpack": "^2.18"
+    "start": "npx http-server ."
   }
 }
