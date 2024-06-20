@@ -1,4 +1,4 @@
-import tilesData from "./tiles.json" assert { type: "json" };
+import tilesData from "./tiles.json" with { type: "json" };
 
 function createTiles(container, tiles) {
   const links = tiles.map((tile) => {
